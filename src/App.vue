@@ -47,4 +47,25 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+#github_link {
+  display: flex;
+  flex-flow: row nowrap;
+  
+}
+
+.github_image{
+  max-height: 30px;
+
+}
+
+footer {
+  /* position: fixed; */
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  margin-left: 20px;
+  margin-bottom: 15px;
+}
 </style>
